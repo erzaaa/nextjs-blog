@@ -36,7 +36,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>私はキュアプリズム！みんなと一緒に世界を守っているヒーローだよ♫</p>
+        <p>私はキュアプリズム！みんなと一緒に世界を守っているヒーローだよ〜♫</p>
       </section>
 
       <section>
